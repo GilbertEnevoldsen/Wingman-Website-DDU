@@ -1,4 +1,4 @@
 function setup() {
-    createCanvas(400, 400);
+    createCanvas(350, 350);
     background('#99dada');
 }
